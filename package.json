@@ -1,0 +1,19 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "test E2E using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "test",
+    "cypress",
+    "e2e"
+  ],
+  "author": "Abdelali EL BAHLOUL",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.0"
+  }
+}

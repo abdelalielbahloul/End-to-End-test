@@ -4,7 +4,8 @@
   "description": "test E2E using cypress",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "cypress:open": "cypress open"
   },
   "keywords": [
     "test",
